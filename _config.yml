@@ -1,6 +1,5 @@
 lsi: false
 safe: true
-source: myblog
 incremental: false
 highlighter: rouge
 gist:
