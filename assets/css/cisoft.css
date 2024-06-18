@@ -1,0 +1,23 @@
+.site-banner {
+  margin-top: 40px;
+}
+
+.site-name {
+  font-family: 'Trebuchet MS', 'Myriad Pro', 'Bitstream Vera Sans', FreeSans, sans-serif;
+  color: #2E2E2E;
+  font-size: 54px;
+  line-height: 54px;
+  font-weight: 300;
+  letter-spacing: -2px;
+  height: 56px;
+}
+
+.site-slogan {
+  font-family: 'Trebuchet MS', 'Myriad Pro', 'Bitstream Vera Sans', FreeSans, sans-serif;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: bold;
+  margin-top: 2px;
+  margin-left: 3px;
+}
